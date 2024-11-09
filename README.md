@@ -1,5 +1,8 @@
 # DNA Detection Project
 
+## API Public URL
+https://mutantdetection.onrender.com/docs
+
 ## Installation of dependencies requried
 
 To install the necessary dependencies, run the following command:
