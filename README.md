@@ -1,7 +1,8 @@
 # DNA Detection Project
 
-## API Public URL
-https://mutantdetection.onrender.com/docs
+## Public API
+**URL**: https://mutantdetection.onrender.com/docs
+**Considerations**: This API is running in a free hosting service, so it may delay the first request. That is because the server is down for inactivity and needs to run from 0 again.
 
 ## Installation of dependencies requried
 
