@@ -33,8 +33,4 @@ To use the mutant detector, follow these steps:
 6. The '/' endpoints gives you 2 DNA examples for you to try!!
 
 ## Development
-This project was developed using **Python** and **FastAPI**.
-
-**Developer:** Santiago Herrera
-
-**Experience:** Not previouse experience using FastAPI :)
+This project was developed using **Python** and **FastAPI**, by **Santiago Herrera**
